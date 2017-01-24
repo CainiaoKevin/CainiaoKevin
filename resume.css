@@ -1,0 +1,13 @@
+body{
+	font-family:"Aerial"
+}
+.main-image{
+	border:solid 4px black;
+	border-radius:50%;
+}
+h1{
+	background-color:#00000;
+}
+h2{
+	font-family:"Aerial";
+}
